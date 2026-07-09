@@ -1,4 +1,4 @@
 # Happ-Proxy
 Application designed for convenient proxy server management, powered by the robust Xray core.
 
-https://github.com/Happ-proxy
+https://www.happ.su/
